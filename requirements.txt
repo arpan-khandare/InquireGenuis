@@ -1,0 +1,7 @@
+transformers
+nltk
+tqdm
+streamlit
+torch==2.0.0 -f https://download.pytorch.org/whl/torch_stable.html
+# transformers==2.9.0
+# nltk==3.4.5
